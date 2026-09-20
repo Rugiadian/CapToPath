@@ -1,0 +1,16 @@
+# Visual Studio & .NET Build Artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publish outputs (optional: un-ignore if you commit binaries)
+dist/
+dist_light/
+*.exe
+
+# Temporary files
+*.tmp
+*.log
